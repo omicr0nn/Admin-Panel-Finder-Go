@@ -37,6 +37,7 @@ Also click to use in replit
 This tool is for educational purposes only. Do not use it for any illegal activities.
 
 
+# With ![GO](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go&logoColor=ffdd54)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/omicr0n) 
