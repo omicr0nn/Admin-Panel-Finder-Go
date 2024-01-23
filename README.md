@@ -14,7 +14,7 @@ Admin Panel Finder is a simple tool for finding admin panels of websites. It inc
 1. Clone the repository:
     ```bash
     git clone https://github.com/omicr0nn/Admin-Panel-Finder-Go
-    cd Admin-Panel-Finder
+    cd Admin-Panel-Finder-Go
     ```
 
 2. Setup Mod
